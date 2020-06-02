@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Leetcode.dir/118_杨辉三角.cpp.o  -o Leetcode 

@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/workspace/CPP/Leetcode
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/workspace/CPP/Leetcode/cmake-build-debug
